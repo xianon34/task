@@ -55,7 +55,7 @@ input:focus {
 }
 
 input:hover {
-  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 0 5px rgba(70,130,180);
 }
 
 label {
